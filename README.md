@@ -2,12 +2,12 @@
 Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 <img src="https://i.ibb.co/GQcDxdZ/IMG-20210329-WA0485.jpg" alt="Pxc7" width="500" />
 <p align="center">
-  <a href="https://github.com/Pxc7/LoL-Bot3#installation">Installation</a> •
-  <a href="https://github.com/Pxc7/LoL-Bot3#thanks-to">Thanks Too</a> •
-  <a href="https://github.com/Pxc7/LoL-Bot3#TROPY">Tropy</a> •
-  <a href="https://github.com/Pxc7/LoL-Bot3#JUMLAH-VIEWS">Views</a> •
-  <a href="https://github.com/Pxc7/LoL-Bot3#STATUS">Status</a> •
-  <a href="https://github.com/Pxc7/LoL-Bot3#LANGUAGE">Language</a> 
+  <a href="https://github.com/Manusia112/Buatbot#installation">Installation</a> •
+  <a href="https://github.com/Manusia112/Buatbot#thanks-to">Thanks Too</a> •
+  <a href="https://github.com/Manusia112/Buatbot#TROPY">Tropy</a> •
+  <a href="https://github.com/Manusia112/Buatbot#JUMLAH-VIEWS">Views</a> •
+  <a href="https://github.com/Manusia112/Buatbot#STATUS">Status</a> •
+  <a href="https://github.com/Manusia112/Buatbot#LANGUAGE">Language</a> 
 </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
@@ -33,8 +33,8 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 
 ## _Cloning_
 ```cmd
-> git clone https://github.com/Pxc7/LoL-Bot3
-> cd LoL-Bot3
+> git clone https://github.com/Manusia112/Buatbot
+> cd Buatbot
 ```
 
 ## _Install_
